@@ -1,14 +1,14 @@
 
 ![Image image_filename](solution_sign.png)
 
-# Nsp Oec Training Chapter 26 - NSP_OEC_Training_Chapter_26
-NSP_OEC_Training_Chapter_26
+# Nsp Oec Training Chapter 26 - National Ski Patrol - Outdoor Emergency Care chapter 26
+National Ski Patrol - Outdoor Emergency Care chapter 26
 
 ![Image image_filename](code.png)
 
 Welcome to the solution **Nsp Oec Training Chapter 26** - an example for your projects
 
-NSP_OEC_Training_Chapter_26
+National Ski Patrol - Outdoor Emergency Care chapter 26
 
 ![Image image_filename](sample.png)
 
