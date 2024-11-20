@@ -70,7 +70,7 @@ By following these guidelines, you can significantly reduce the risk of heat-rel
 
 
 
-The body adjusts to a hot environment through a process called **heat acclimatization**, which involves several physiological changes that help regulate body temperature and maintain homeostasis. Hereâ€™s how the body adapts:
+The body adjusts to a hot environment through a process called **heat acclimatization**, which involves several physiological changes that help regulate body temperature and maintain homeostasis. Here’s how the body adapts:
 
 ### **1. Increased Sweating**
    - **Enhanced Sweat Production**: In a hot environment, the body produces more sweat, which helps cool the skin as the sweat evaporates. Over time, the body becomes more efficient at **producing sweat** to release heat.
@@ -93,7 +93,7 @@ The body adjusts to a hot environment through a process called **heat acclimatiz
    - **Hormonal Adjustments**: Hormones like **aldosterone** increase, promoting sodium retention and water reabsorption in the kidneys to reduce the risk of dehydration.
 
 ### **6. Acclimatization Over Time**
-   - **Gradual Adaptation**: The bodyâ€™s adjustment to a hot environment, known as acclimatization, typically takes **1-2 weeks** of gradual exposure to heat. During this period, the body becomes more efficient at cooling itself and conserving fluids.
+   - **Gradual Adaptation**: The body’s adjustment to a hot environment, known as acclimatization, typically takes **1-2 weeks** of gradual exposure to heat. During this period, the body becomes more efficient at cooling itself and conserving fluids.
    - **Sustained Acclimatization**: Regular exposure to heat can maintain these adaptations, but they can be lost within a few weeks if the body is no longer exposed to hot conditions.
 
 Through these physiological changes, the body becomes more efficient at cooling itself, conserving fluids, and maintaining stable internal conditions, which helps prevent heat-related illnesses and improves performance in hot environments.
@@ -132,7 +132,7 @@ Here are the signs and symptoms of the four main types of heat-related illnesses
 - **Weak, Rapid Pulse**: May experience a rapid but weak pulse.
 
 ### **4. Heat Stroke (Medical Emergency)**
-- **High Body Temperature**: Core body temperature is **104Â°F (40Â°C) or higher**.
+- **High Body Temperature**: Core body temperature is **104°F (40°C) or higher**.
 - **Hot, Red, Dry or Moist Skin**: Skin may be hot and flushed; can be dry or slightly moist.
 - **Rapid, Strong Pulse**: Heart rate increases significantly.
 - **Altered Mental State**: Confusion, irritability, agitation, slurred speech, or seizures.
@@ -155,7 +155,7 @@ These heat-related illnesses range from mild (heat cramps) to life-threatening (
 
 ### **Assessment and Management of Heat-Related Illnesses**
 
-Managing heat-related illnesses requires accurate assessment and prompt action to prevent complications. Hereâ€™s how to assess and manage each of the four types:
+Managing heat-related illnesses requires accurate assessment and prompt action to prevent complications. Here’s how to assess and manage each of the four types:
 
 ### **1. Heat Cramps**
 #### **Assessment:**
@@ -174,7 +174,7 @@ Managing heat-related illnesses requires accurate assessment and prompt action t
 ### **2. Heat Exhaustion**
 #### **Assessment:**
 - **Identify Symptoms**: Check for **heavy sweating**, **pale or flushed skin**, **weak and rapid pulse**, **nausea**, **dizziness**, and **headache**.
-- **Check Vital Signs**: Measure pulse, temperature, and blood pressure. The patientâ€™s skin will usually be cool and moist.
+- **Check Vital Signs**: Measure pulse, temperature, and blood pressure. The patient’s skin will usually be cool and moist.
 - **Assess Level of Consciousness**: Ask the patient simple questions to determine if they are **alert and oriented**.
 
 #### **Management:**
@@ -182,7 +182,7 @@ Managing heat-related illnesses requires accurate assessment and prompt action t
 - **Remove Excess Clothing**: Encourage the patient to remove or loosen tight or heavy clothing.
 - **Rehydrate**: Provide **cool water** or an electrolyte drink. Encourage them to drink slowly.
 - **Cool the Body**: Use **cool, wet cloths**, fans, or misting to help lower body temperature. Apply the cloths to the **forehead, neck, armpits, and groin**.
-- **Monitor Condition**: Continue to monitor vital signs and watch for signs of **heat stroke**. Seek medical attention if the patientâ€™s condition does not improve.
+- **Monitor Condition**: Continue to monitor vital signs and watch for signs of **heat stroke**. Seek medical attention if the patient’s condition does not improve.
 
 ---
 
@@ -202,7 +202,7 @@ Managing heat-related illnesses requires accurate assessment and prompt action t
 
 ### **4. Heat Stroke (Medical Emergency)**
 #### **Assessment:**
-- **Identify Symptoms**: Look for signs of **high body temperature (104Â°F/40Â°C or higher), hot, red, dry or moist skin, rapid and strong pulse, confusion, irritability, or loss of consciousness**.
+- **Identify Symptoms**: Look for signs of **high body temperature (104°F/40°C or higher), hot, red, dry or moist skin, rapid and strong pulse, confusion, irritability, or loss of consciousness**.
 - **Check Vital Signs**: Measure body temperature, check pulse, and assess breathing. Observe for **altered mental state** and signs of distress.
 - **Assess Level of Consciousness**: The patient may be **confused, disoriented, or unconscious**.
 
@@ -236,24 +236,4 @@ Each condition requires timely intervention, with **heat stroke demanding immedi
     
 ![Solution](code.png)
 
-    
-## Getting Started
-
-The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
-
-To get started with the **Nsp Oec Training Chapter 26** solution repository, follow these steps:
-1. Clone the repository to your local machine.
-2. Install the required dependencies listed at the top of the notebook.
-3. Explore the example code provided in the repository and experiment.
-4. Run the notebook and make it your own - **EASY !**
-    
-## List of Figures
- ![additional_image](heat related emergencies.png)  <br>![additional_image](NSP_OEC_Training_Chapter_26.png)  <br>
-    
-
-## Github https://github.com/JoeEberle/ - Email  josepheberle@outlook.com 
-    
-![Developer](developer.png)
-
-![Brand](brand.png)
     
